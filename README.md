@@ -1,6 +1,6 @@
 # Virtual-Learn
 
-Rahul Paraselli
+Allam Manikanta
 
-link: https://rahulparaselli.github.io/Virtual-Learn/
+link: https://AllamManikanta.github.io/Virtual-Learn/
 
